@@ -1,5 +1,5 @@
 # GC-server-html
-
+[中文](https://github.com/easonlee66/GC-server_html/edit/master/README.md)
 #### Description
 GC-server's html version
 
@@ -10,13 +10,10 @@ Software architecture description
 
 1.  download zip.
 2.  find GC-server.html,run it.
-3.  or find gamecenter.html,run it
 
 #### Instructions
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  sign in/up have a bug,so you can find gamecenter.html,run it.
 
 #### Contribution
 
