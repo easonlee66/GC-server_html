@@ -1,5 +1,7 @@
 # GC-server-html
 
+[English](https://github.com/easonlee66/GC-server_html/tree/master/README.en.md)
+
 #### 介绍
 GC-server的html搬迁到这里来啦！
 
