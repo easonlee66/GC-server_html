@@ -1,5 +1,5 @@
 # GC-server-html
-[中文](https://github.com/easonlee66/GC-server_html/edit/master/README.md)
+[中文](https://github.com/easonlee66/GC-server_html/tree/master/README.md)
 #### Description
 GC-server's html version
 
